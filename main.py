@@ -1,0 +1,1 @@
+print([[(i+1) *2 - 1, (i+1) * 2] for i in range(5)])
